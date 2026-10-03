@@ -1,0 +1,73 @@
+
+# Medical imaging data
+
+Task08_HepaticVessel/
+
+holdout/
+
+*.nii
+
+*.nii.gz
+
+*.tar
+
+*.zip
+
+
+
+# nnU-Net data/model outputs
+
+nnUNet_raw/
+
+nnUNet_preprocessed/
+
+nnUNet_results/
+
+*.pth
+
+*.pt
+
+*.ckpt
+
+
+
+# Python environments/cache
+
+nnunet_env/
+
+venv/
+
+.venv/
+
+__pycache__/
+
+*.pyc
+
+
+
+# HPC logs
+
+*.out
+
+*.err
+
+slurm-*.out
+
+
+
+# Temporary/system files
+
+.DS_Store
+
+._*
+
+*.tmp
+
+
+
+# IDE
+
+.vscode/
+
+.idea/
+
