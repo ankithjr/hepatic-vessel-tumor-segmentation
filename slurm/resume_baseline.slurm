@@ -12,7 +12,7 @@
 
 #SBATCH --mem=32G
 
-#SBATCH --time=24:00:00
+#SBATCH --time=6:00:00
 
 #SBATCH --output=slurm/train_%j.out
 
@@ -40,5 +40,4 @@ export nnUNet_results=/mnt/vstor/courses/csds463/arj94/nnUNet_results
 
 
 export nnUNet_compile=false
-nnUNetv2_train 8 3d_fullres 0
-
+nnUNetv2_train 8 3d_fullres 0 --c
