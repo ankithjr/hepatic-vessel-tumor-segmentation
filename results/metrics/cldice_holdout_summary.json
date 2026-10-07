@@ -1,0 +1,1622 @@
+{
+    "foreground_mean": {
+        "Dice": 0.6535686744611825,
+        "FN": 6601.819672131147,
+        "FP": 7256.368852459016,
+        "IoU": 0.5195245131386469,
+        "TN": 18286156.262295082,
+        "TP": 32875.77868852459,
+        "n_pred": 40132.147540983606,
+        "n_ref": 39477.598360655735
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.6373247655045771,
+            "FN": 7044.918032786885,
+            "FP": 7021.098360655737,
+            "IoU": 0.48063424672185656,
+            "TN": 18305942.04918033,
+            "TP": 12882.16393442623,
+            "n_pred": 19903.262295081968,
+            "n_ref": 19927.081967213115
+        },
+        "2": {
+            "Dice": 0.6698125834177879,
+            "FN": 6158.7213114754095,
+            "FP": 7491.639344262295,
+            "IoU": 0.5584147795554372,
+            "TN": 18266370.475409836,
+            "TP": 52869.39344262295,
+            "n_pred": 60361.03278688525,
+            "n_ref": 59028.11475409836
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.4738863962933638,
+                    "FN": 17490,
+                    "FP": 451,
+                    "IoU": 0.3105184274240037,
+                    "TN": 17275483,
+                    "TP": 8080,
+                    "n_pred": 8531,
+                    "n_ref": 25570
+                },
+                "2": {
+                    "Dice": 0.8518842218909054,
+                    "FN": 513,
+                    "FP": 2368,
+                    "IoU": 0.7419845960952892,
+                    "TN": 17290338,
+                    "TP": 8285,
+                    "n_pred": 10653,
+                    "n_ref": 8798
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_002.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_002.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7216194222161942,
+                    "FN": 5747,
+                    "FP": 2463,
+                    "IoU": 0.5644793379661557,
+                    "TN": 12301917,
+                    "TP": 10641,
+                    "n_pred": 13104,
+                    "n_ref": 16388
+                },
+                "2": {
+                    "Dice": 0.6797556719022687,
+                    "FN": 715,
+                    "FP": 19,
+                    "IoU": 0.5148711169861203,
+                    "TN": 12319255,
+                    "TP": 779,
+                    "n_pred": 798,
+                    "n_ref": 1494
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_008.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_008.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6540870183498783,
+                    "FN": 12222,
+                    "FP": 427,
+                    "IoU": 0.4859801690507152,
+                    "TN": 11771872,
+                    "TP": 11959,
+                    "n_pred": 12386,
+                    "n_ref": 24181
+                },
+                "2": {
+                    "Dice": 0.8946386946386946,
+                    "FN": 2667,
+                    "FP": 45,
+                    "IoU": 0.809363137916491,
+                    "TN": 11782254,
+                    "TP": 11514,
+                    "n_pred": 11559,
+                    "n_ref": 14181
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_019.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_019.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5332830270037191,
+                    "FN": 6001,
+                    "FP": 2658,
+                    "IoU": 0.3635895928266941,
+                    "TN": 12831450,
+                    "TP": 4947,
+                    "n_pred": 7605,
+                    "n_ref": 10948
+                },
+                "2": {
+                    "Dice": 0.9532831747223707,
+                    "FN": 654,
+                    "FP": 2581,
+                    "IoU": 0.9107364587069893,
+                    "TN": 12808815,
+                    "TP": 33006,
+                    "n_pred": 35587,
+                    "n_ref": 33660
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_027.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_027.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6771665079481357,
+                    "FN": 3918,
+                    "FP": 489,
+                    "IoU": 0.5119060804075756,
+                    "TN": 11263163,
+                    "TP": 4622,
+                    "n_pred": 5111,
+                    "n_ref": 8540
+                },
+                "2": {
+                    "Dice": 0.6485776805251641,
+                    "FN": 776,
+                    "FP": 27,
+                    "IoU": 0.4799222797927461,
+                    "TN": 11270648,
+                    "TP": 741,
+                    "n_pred": 768,
+                    "n_ref": 1517
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_029.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_029.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6438612432519109,
+                    "FN": 2545,
+                    "FP": 4118,
+                    "IoU": 0.4747753428976825,
+                    "TN": 11783794,
+                    "TP": 6023,
+                    "n_pred": 10141,
+                    "n_ref": 8568
+                },
+                "2": {
+                    "Dice": 0.8361027471097728,
+                    "FN": 4314,
+                    "FP": 95,
+                    "IoU": 0.7183647396997764,
+                    "TN": 11780825,
+                    "TP": 11246,
+                    "n_pred": 11341,
+                    "n_ref": 15560
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_042.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_042.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7402071522952985,
+                    "FN": 5144,
+                    "FP": 951,
+                    "IoU": 0.5875625930437136,
+                    "TN": 7849542,
+                    "TP": 8683,
+                    "n_pred": 9634,
+                    "n_ref": 13827
+                },
+                "2": {
+                    "Dice": 0.5311004784688995,
+                    "FN": 340,
+                    "FP": 52,
+                    "IoU": 0.36156351791530944,
+                    "TN": 7863706,
+                    "TP": 222,
+                    "n_pred": 274,
+                    "n_ref": 562
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_052.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_052.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5683496961196821,
+                    "FN": 16385,
+                    "FP": 2081,
+                    "IoU": 0.39698919113084935,
+                    "TN": 9930849,
+                    "TP": 12157,
+                    "n_pred": 14238,
+                    "n_ref": 28542
+                },
+                "2": {
+                    "Dice": 0.9050601303418605,
+                    "FN": 24195,
+                    "FP": 6412,
+                    "IoU": 0.8265843225020539,
+                    "TN": 9784977,
+                    "TP": 145888,
+                    "n_pred": 152300,
+                    "n_ref": 170083
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_057.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_057.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7524611214153232,
+                    "FN": 3385,
+                    "FP": 1820,
+                    "IoU": 0.603156450137237,
+                    "TN": 10996932,
+                    "TP": 7911,
+                    "n_pred": 9731,
+                    "n_ref": 11296
+                },
+                "2": {
+                    "Dice": 0.8990258869291128,
+                    "FN": 22889,
+                    "FP": 1201,
+                    "IoU": 0.8165731385105038,
+                    "TN": 10878715,
+                    "TP": 107243,
+                    "n_pred": 108444,
+                    "n_ref": 130132
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_061.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_061.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.766256330634727,
+                    "FN": 4155,
+                    "FP": 2168,
+                    "IoU": 0.621082279618865,
+                    "TN": 10469073,
+                    "TP": 10364,
+                    "n_pred": 12532,
+                    "n_ref": 14519
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 5667,
+                    "FP": 222,
+                    "IoU": 0.0,
+                    "TN": 10479871,
+                    "TP": 0,
+                    "n_pred": 222,
+                    "n_ref": 5667
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_062.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_062.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.021722003376477207,
+                    "FN": 7723,
+                    "FP": 9661,
+                    "IoU": 0.010980258292086249,
+                    "TN": 9681751,
+                    "TP": 193,
+                    "n_pred": 9854,
+                    "n_ref": 7916
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 25271,
+                    "FP": 7603,
+                    "IoU": 0.0,
+                    "TN": 9666454,
+                    "TP": 0,
+                    "n_pred": 7603,
+                    "n_ref": 25271
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_075.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_075.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7690682270713967,
+                    "FN": 2140,
+                    "FP": 3543,
+                    "IoU": 0.6247854218935692,
+                    "TN": 12305622,
+                    "TP": 9463,
+                    "n_pred": 13006,
+                    "n_ref": 11603
+                },
+                "2": {
+                    "Dice": 0.4240800285816363,
+                    "FN": 662,
+                    "FP": 9010,
+                    "IoU": 0.26909997732940377,
+                    "TN": 12307535,
+                    "TP": 3561,
+                    "n_pred": 12571,
+                    "n_ref": 4223
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_078.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_078.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7662844903615976,
+                    "FN": 4043,
+                    "FP": 1522,
+                    "IoU": 0.6211192810457516,
+                    "TN": 9422496,
+                    "TP": 9123,
+                    "n_pred": 10645,
+                    "n_ref": 13166
+                },
+                "2": {
+                    "Dice": 0.17576321969390235,
+                    "FN": 14,
+                    "FP": 40700,
+                    "IoU": 0.09634890689157696,
+                    "TN": 9392129,
+                    "TP": 4341,
+                    "n_pred": 45041,
+                    "n_ref": 4355
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_085.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_085.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8182643772835752,
+                    "FN": 4432,
+                    "FP": 4173,
+                    "IoU": 0.6924259212924903,
+                    "TN": 10982071,
+                    "TP": 19372,
+                    "n_pred": 23545,
+                    "n_ref": 23804
+                },
+                "2": {
+                    "Dice": 0.7296650717703349,
+                    "FN": 263,
+                    "FP": 189,
+                    "IoU": 0.5743879472693032,
+                    "TN": 11008986,
+                    "TP": 610,
+                    "n_pred": 799,
+                    "n_ref": 873
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_108.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_108.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7921413624738433,
+                    "FN": 1229,
+                    "FP": 4135,
+                    "IoU": 0.655822906641001,
+                    "TN": 12829471,
+                    "TP": 10221,
+                    "n_pred": 14356,
+                    "n_ref": 11450
+                },
+                "2": {
+                    "Dice": 0.9442907350631871,
+                    "FN": 391,
+                    "FP": 1099,
+                    "IoU": 0.894460971809038,
+                    "TN": 12830938,
+                    "TP": 12628,
+                    "n_pred": 13727,
+                    "n_ref": 13019
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_110.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_110.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5094378759593445,
+                    "FN": 1658,
+                    "FP": 7802,
+                    "IoU": 0.3417756749234623,
+                    "TN": 14403548,
+                    "TP": 4912,
+                    "n_pred": 12714,
+                    "n_ref": 6570
+                },
+                "2": {
+                    "Dice": 0.9549563168377317,
+                    "FN": 51141,
+                    "FP": 6665,
+                    "IoU": 0.9137955974702081,
+                    "TN": 13747351,
+                    "TP": 612763,
+                    "n_pred": 619428,
+                    "n_ref": 663904
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_132.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_132.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6308724832214765,
+                    "FN": 966,
+                    "FP": 3819,
+                    "IoU": 0.46078431372549017,
+                    "TN": 15195478,
+                    "TP": 4089,
+                    "n_pred": 7908,
+                    "n_ref": 5055
+                },
+                "2": {
+                    "Dice": 0.9161255007339951,
+                    "FN": 4875,
+                    "FP": 1867,
+                    "IoU": 0.8452320830081264,
+                    "TN": 15160790,
+                    "TP": 36820,
+                    "n_pred": 38687,
+                    "n_ref": 41695
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_146.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_146.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6671990320629159,
+                    "FN": 6388,
+                    "FP": 7365,
+                    "IoU": 0.5005991502959439,
+                    "TN": 46371949,
+                    "TP": 13786,
+                    "n_pred": 21151,
+                    "n_ref": 20174
+                },
+                "2": {
+                    "Dice": 0.8278924595785723,
+                    "FN": 10855,
+                    "FP": 14841,
+                    "IoU": 0.7063280723208265,
+                    "TN": 46311989,
+                    "TP": 61803,
+                    "n_pred": 76644,
+                    "n_ref": 72658
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_150.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_150.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5317704286727697,
+                    "FN": 2572,
+                    "FP": 11289,
+                    "IoU": 0.3621847966132892,
+                    "TN": 10988316,
+                    "TP": 7871,
+                    "n_pred": 19160,
+                    "n_ref": 10443
+                },
+                "2": {
+                    "Dice": 0.8632851864292912,
+                    "FN": 592,
+                    "FP": 222,
+                    "IoU": 0.7594562647754137,
+                    "TN": 11006664,
+                    "TP": 2570,
+                    "n_pred": 2792,
+                    "n_ref": 3162
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_154.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_154.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.677757951086386,
+                    "FN": 5081,
+                    "FP": 1059,
+                    "IoU": 0.5125823608795745,
+                    "TN": 14143179,
+                    "TP": 6457,
+                    "n_pred": 7516,
+                    "n_ref": 11538
+                },
+                "2": {
+                    "Dice": 0.8502922710543408,
+                    "FN": 8145,
+                    "FP": 153,
+                    "IoU": 0.7395725449581019,
+                    "TN": 14123913,
+                    "TP": 23565,
+                    "n_pred": 23718,
+                    "n_ref": 31710
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_157.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_157.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7096501426910474,
+                    "FN": 7095,
+                    "FP": 1146,
+                    "IoU": 0.5499672346002621,
+                    "TN": 12040312,
+                    "TP": 10071,
+                    "n_pred": 11217,
+                    "n_ref": 17166
+                },
+                "2": {
+                    "Dice": 0.5924336973478939,
+                    "FN": 1151,
+                    "FP": 939,
+                    "IoU": 0.42089221390967024,
+                    "TN": 12055015,
+                    "TP": 1519,
+                    "n_pred": 2458,
+                    "n_ref": 2670
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_158.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_158.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6793307401289498,
+                    "FN": 9292,
+                    "FP": 2744,
+                    "IoU": 0.5143836998184386,
+                    "TN": 15965999,
+                    "TP": 12749,
+                    "n_pred": 15493,
+                    "n_ref": 22041
+                },
+                "2": {
+                    "Dice": 0.6180288246352161,
+                    "FN": 8248,
+                    "FP": 286,
+                    "IoU": 0.44720818758906594,
+                    "TN": 15975346,
+                    "TP": 6904,
+                    "n_pred": 7190,
+                    "n_ref": 15152
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_165.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_165.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5773496591255978,
+                    "FN": 6781,
+                    "FP": 18141,
+                    "IoU": 0.4058268167079916,
+                    "TN": 21453864,
+                    "TP": 17022,
+                    "n_pred": 35163,
+                    "n_ref": 23803
+                },
+                "2": {
+                    "Dice": 0.8599558392063156,
+                    "FN": 1800,
+                    "FP": 7460,
+                    "IoU": 0.7543180069512616,
+                    "TN": 21458117,
+                    "TP": 28431,
+                    "n_pred": 35891,
+                    "n_ref": 30231
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_175.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_175.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7290873720713863,
+                    "FN": 910,
+                    "FP": 2293,
+                    "IoU": 0.5736723013443364,
+                    "TN": 9429671,
+                    "TP": 4310,
+                    "n_pred": 6603,
+                    "n_ref": 5220
+                },
+                "2": {
+                    "Dice": 0.7748691770982967,
+                    "FN": 6638,
+                    "FP": 28468,
+                    "IoU": 0.6324787219564284,
+                    "TN": 9341663,
+                    "TP": 60415,
+                    "n_pred": 88883,
+                    "n_ref": 67053
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_177.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_177.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7027881171430578,
+                    "FN": 3623,
+                    "FP": 4841,
+                    "IoU": 0.5417681771425478,
+                    "TN": 8370137,
+                    "TP": 10007,
+                    "n_pred": 14848,
+                    "n_ref": 13630
+                },
+                "2": {
+                    "Dice": 0.8485698645134803,
+                    "FN": 4493,
+                    "FP": 4359,
+                    "IoU": 0.7369703452784215,
+                    "TN": 8354954,
+                    "TP": 24802,
+                    "n_pred": 29161,
+                    "n_ref": 29295
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_179.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_179.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6609810157078153,
+                    "FN": 1274,
+                    "FP": 5762,
+                    "IoU": 0.49363080244692337,
+                    "TN": 10996153,
+                    "TP": 6859,
+                    "n_pred": 12621,
+                    "n_ref": 8133
+                },
+                "2": {
+                    "Dice": 0.7028316835374606,
+                    "FN": 490,
+                    "FP": 15451,
+                    "IoU": 0.5418199586111749,
+                    "TN": 10975256,
+                    "TP": 18851,
+                    "n_pred": 34302,
+                    "n_ref": 19341
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_193.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_193.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.3584422334422334,
+                    "FN": 60373,
+                    "FP": 8751,
+                    "IoU": 0.21835493136124115,
+                    "TN": 22980238,
+                    "TP": 19310,
+                    "n_pred": 28061,
+                    "n_ref": 79683
+                },
+                "2": {
+                    "Dice": 0.9429872596105541,
+                    "FN": 63602,
+                    "FP": 27186,
+                    "IoU": 0.8921247810722883,
+                    "TN": 22227070,
+                    "TP": 750814,
+                    "n_pred": 778000,
+                    "n_ref": 814416
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_209.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_209.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5377552750793382,
+                    "FN": 16825,
+                    "FP": 2256,
+                    "IoU": 0.36776010603048376,
+                    "TN": 25922076,
+                    "TP": 11099,
+                    "n_pred": 13355,
+                    "n_ref": 27924
+                },
+                "2": {
+                    "Dice": 0.2717701364037135,
+                    "FN": 795,
+                    "FP": 27287,
+                    "IoU": 0.1572534661785007,
+                    "TN": 25918934,
+                    "TP": 5240,
+                    "n_pred": 32527,
+                    "n_ref": 6035
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_214.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_214.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5840830449826989,
+                    "FN": 1058,
+                    "FP": 2548,
+                    "IoU": 0.4125122189638319,
+                    "TN": 9693190,
+                    "TP": 2532,
+                    "n_pred": 5080,
+                    "n_ref": 3590
+                },
+                "2": {
+                    "Dice": 0.7545963229416467,
+                    "FN": 663,
+                    "FP": 565,
+                    "IoU": 0.6059050064184852,
+                    "TN": 9696212,
+                    "TP": 1888,
+                    "n_pred": 2453,
+                    "n_ref": 2551
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_221.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_221.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.49469557195571956,
+                    "FN": 11306,
+                    "FP": 1840,
+                    "IoU": 0.32863490117971506,
+                    "TN": 11776899,
+                    "TP": 6435,
+                    "n_pred": 8275,
+                    "n_ref": 17741
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 1363,
+                    "FP": 1605,
+                    "IoU": 0.0,
+                    "TN": 11793512,
+                    "TP": 0,
+                    "n_pred": 1605,
+                    "n_ref": 1363
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_237.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_237.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.45492714250432204,
+                    "FN": 670,
+                    "FP": 34642,
+                    "IoU": 0.2944373401534527,
+                    "TN": 33242240,
+                    "TP": 14736,
+                    "n_pred": 49378,
+                    "n_ref": 15406
+                },
+                "2": {
+                    "Dice": 0.7623707678951938,
+                    "FN": 12688,
+                    "FP": 86675,
+                    "IoU": 0.6159928580538196,
+                    "TN": 33033535,
+                    "TP": 159390,
+                    "n_pred": 246065,
+                    "n_ref": 172078
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_259.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_259.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.35937291823955236,
+                    "FN": 11596,
+                    "FP": 2829,
+                    "IoU": 0.21904607222131992,
+                    "TN": 16496601,
+                    "TP": 4046,
+                    "n_pred": 6875,
+                    "n_ref": 15642
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 2052,
+                    "FP": 144,
+                    "IoU": 0.0,
+                    "TN": 16512876,
+                    "TP": 0,
+                    "n_pred": 144,
+                    "n_ref": 2052
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_262.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_262.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7607680779722051,
+                    "FN": 2687,
+                    "FP": 19502,
+                    "IoU": 0.613902905863929,
+                    "TN": 38739842,
+                    "TP": 35281,
+                    "n_pred": 54783,
+                    "n_ref": 37968
+                },
+                "2": {
+                    "Dice": 0.6975476839237057,
+                    "FN": 5,
+                    "FP": 328,
+                    "IoU": 0.5355648535564853,
+                    "TN": 38796595,
+                    "TP": 384,
+                    "n_pred": 712,
+                    "n_ref": 389
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_270.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_270.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.4817258883248731,
+                    "FN": 2213,
+                    "FP": 3913,
+                    "IoU": 0.31728518890003343,
+                    "TN": 9166067,
+                    "TP": 2847,
+                    "n_pred": 6760,
+                    "n_ref": 5060
+                },
+                "2": {
+                    "Dice": 0.8323412698412699,
+                    "FN": 110,
+                    "FP": 228,
+                    "IoU": 0.7128292268479184,
+                    "TN": 9173863,
+                    "TP": 839,
+                    "n_pred": 1067,
+                    "n_ref": 949
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_278.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_278.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6799577558893894,
+                    "FN": 1180,
+                    "FP": 28518,
+                    "IoU": 0.515103027136466,
+                    "TN": 45551810,
+                    "TP": 31548,
+                    "n_pred": 60066,
+                    "n_ref": 32728
+                },
+                "2": {
+                    "Dice": 0.7340261739799846,
+                    "FN": 203,
+                    "FP": 1179,
+                    "IoU": 0.5798114928549711,
+                    "TN": 45609767,
+                    "TP": 1907,
+                    "n_pred": 3086,
+                    "n_ref": 2110
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_279.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_279.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6188775931895198,
+                    "FN": 31068,
+                    "FP": 15044,
+                    "IoU": 0.4480975691493818,
+                    "TN": 43956641,
+                    "TP": 37439,
+                    "n_pred": 52483,
+                    "n_ref": 68507
+                },
+                "2": {
+                    "Dice": 0.9529862534593192,
+                    "FN": 46316,
+                    "FP": 22078,
+                    "IoU": 0.910194595446309,
+                    "TN": 43278612,
+                    "TP": 693186,
+                    "n_pred": 715264,
+                    "n_ref": 739502
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_294.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_294.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7243585682610073,
+                    "FN": 1566,
+                    "FP": 2785,
+                    "IoU": 0.5678386968613429,
+                    "TN": 12310700,
+                    "TP": 5717,
+                    "n_pred": 8502,
+                    "n_ref": 7283
+                },
+                "2": {
+                    "Dice": 0.2848792126453922,
+                    "FN": 1237,
+                    "FP": 10752,
+                    "IoU": 0.16609862975586007,
+                    "TN": 12306391,
+                    "TP": 2388,
+                    "n_pred": 13140,
+                    "n_ref": 3625
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_308.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_308.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6599822051878722,
+                    "FN": 815,
+                    "FP": 19057,
+                    "IoU": 0.49251749323254507,
+                    "TN": 31418122,
+                    "TP": 19286,
+                    "n_pred": 38343,
+                    "n_ref": 20101
+                },
+                "2": {
+                    "Dice": 0.7246149830331506,
+                    "FN": 124,
+                    "FP": 1986,
+                    "IoU": 0.5681539091281211,
+                    "TN": 31452394,
+                    "TP": 2776,
+                    "n_pred": 4762,
+                    "n_ref": 2900
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_324.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_324.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7114221871713985,
+                    "FN": 1468,
+                    "FP": 7314,
+                    "IoU": 0.5520987402458306,
+                    "TN": 14398313,
+                    "TP": 10825,
+                    "n_pred": 18139,
+                    "n_ref": 12293
+                },
+                "2": {
+                    "Dice": 0.7130154729398586,
+                    "FN": 391,
+                    "FP": 3708,
+                    "IoU": 0.554020237188554,
+                    "TN": 14408729,
+                    "TP": 5092,
+                    "n_pred": 8800,
+                    "n_ref": 5483
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_335.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_335.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7499224587621599,
+                    "FN": 4066,
+                    "FP": 4803,
+                    "IoU": 0.5999007533721298,
+                    "TN": 10987881,
+                    "TP": 13298,
+                    "n_pred": 18101,
+                    "n_ref": 17364
+                },
+                "2": {
+                    "Dice": 0.9356703103404951,
+                    "FN": 96,
+                    "FP": 928,
+                    "IoU": 0.8791169873686696,
+                    "TN": 11001577,
+                    "TP": 7447,
+                    "n_pred": 8375,
+                    "n_ref": 7543
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_338.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_338.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.689398636081835,
+                    "FN": 845,
+                    "FP": 6670,
+                    "IoU": 0.5260170293282876,
+                    "TN": 12829201,
+                    "TP": 8340,
+                    "n_pred": 15010,
+                    "n_ref": 9185
+                },
+                "2": {
+                    "Dice": 0.7846626416693147,
+                    "FN": 1212,
+                    "FP": 821,
+                    "IoU": 0.6456336064145024,
+                    "TN": 12839319,
+                    "TP": 3704,
+                    "n_pred": 4525,
+                    "n_ref": 4916
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_341.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_341.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5136526232114468,
+                    "FN": 43439,
+                    "FP": 5507,
+                    "IoU": 0.3455804687604455,
+                    "TN": 25877463,
+                    "TP": 25847,
+                    "n_pred": 31354,
+                    "n_ref": 69286
+                },
+                "2": {
+                    "Dice": 0.6853574334278866,
+                    "FN": 11340,
+                    "FP": 2969,
+                    "IoU": 0.5213260629578831,
+                    "TN": 25922363,
+                    "TP": 15584,
+                    "n_pred": 18553,
+                    "n_ref": 26924
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_344.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_344.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.43055903735272,
+                    "FN": 2537,
+                    "FP": 6549,
+                    "IoU": 0.27433911029470487,
+                    "TN": 14667543,
+                    "TP": 3435,
+                    "n_pred": 9984,
+                    "n_ref": 5972
+                },
+                "2": {
+                    "Dice": 0.7668453608247423,
+                    "FN": 2090,
+                    "FP": 737,
+                    "IoU": 0.621856607811664,
+                    "TN": 14672588,
+                    "TP": 4649,
+                    "n_pred": 5386,
+                    "n_ref": 6739
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_353.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_353.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8383738225086762,
+                    "FN": 9179,
+                    "FP": 9729,
+                    "IoU": 0.7217242851045668,
+                    "TN": 36894357,
+                    "TP": 49039,
+                    "n_pred": 58768,
+                    "n_ref": 58218
+                },
+                "2": {
+                    "Dice": 0.7838770388958595,
+                    "FN": 2424,
+                    "FP": 332,
+                    "IoU": 0.6445705442352334,
+                    "TN": 36954550,
+                    "TP": 4998,
+                    "n_pred": 5330,
+                    "n_ref": 7422
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_358.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_358.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5094349766141605,
+                    "FN": 5672,
+                    "FP": 3453,
+                    "IoU": 0.34177306499314725,
+                    "TN": 29870553,
+                    "TP": 4738,
+                    "n_pred": 8191,
+                    "n_ref": 10410
+                },
+                "2": {
+                    "Dice": 0.8705152539234294,
+                    "FN": 2204,
+                    "FP": 3390,
+                    "IoU": 0.7707189113861792,
+                    "TN": 29860018,
+                    "TP": 18804,
+                    "n_pred": 22194,
+                    "n_ref": 21008
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_362.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_362.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6483749625792344,
+                    "FN": 1516,
+                    "FP": 25499,
+                    "IoU": 0.4797003197103347,
+                    "TN": 23278894,
+                    "TP": 24907,
+                    "n_pred": 50406,
+                    "n_ref": 26423
+                },
+                "2": {
+                    "Dice": 0.6995783610536306,
+                    "FN": 667,
+                    "FP": 37951,
+                    "IoU": 0.5379627192457707,
+                    "TN": 23247234,
+                    "TP": 44964,
+                    "n_pred": 82915,
+                    "n_ref": 45631
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_368.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_368.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6969614921780987,
+                    "FN": 7096,
+                    "FP": 13050,
+                    "IoU": 0.5348740562879505,
+                    "TN": 20928207,
+                    "TP": 23167,
+                    "n_pred": 36217,
+                    "n_ref": 30263
+                },
+                "2": {
+                    "Dice": 0.8457217947902758,
+                    "FN": 468,
+                    "FP": 6811,
+                    "IoU": 0.7326845391112743,
+                    "TN": 20944290,
+                    "TP": 19951,
+                    "n_pred": 26762,
+                    "n_ref": 20419
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_373.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_373.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6990154306771074,
+                    "FN": 8831,
+                    "FP": 12079,
+                    "IoU": 0.5372972494523246,
+                    "TN": 36917113,
+                    "TP": 24281,
+                    "n_pred": 36360,
+                    "n_ref": 33112
+                },
+                "2": {
+                    "Dice": 0.8340796713088673,
+                    "FN": 21928,
+                    "FP": 29278,
+                    "IoU": 0.7153830761705723,
+                    "TN": 36782392,
+                    "TP": 128706,
+                    "n_pred": 157984,
+                    "n_ref": 150634
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_374.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_374.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.765206541597968,
+                    "FN": 1105,
+                    "FP": 4164,
+                    "IoU": 0.6197040779501984,
+                    "TN": 9947617,
+                    "TP": 8586,
+                    "n_pred": 12750,
+                    "n_ref": 9691
+                },
+                "2": {
+                    "Dice": 0.7363780638335391,
+                    "FN": 255,
+                    "FP": 1240,
+                    "IoU": 0.5827518838961764,
+                    "TN": 9957889,
+                    "TP": 2088,
+                    "n_pred": 3328,
+                    "n_ref": 2343
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_378.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_378.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5980825028384004,
+                    "FN": 2615,
+                    "FP": 16501,
+                    "IoU": 0.426617475029245,
+                    "TN": 42171845,
+                    "TP": 14223,
+                    "n_pred": 30724,
+                    "n_ref": 16838
+                },
+                "2": {
+                    "Dice": 0.4837360594795539,
+                    "FN": 2104,
+                    "FP": 118,
+                    "IoU": 0.31903156604351823,
+                    "TN": 42201921,
+                    "TP": 1041,
+                    "n_pred": 1159,
+                    "n_ref": 3145
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_379.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_379.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7137310901869784,
+                    "FN": 2880,
+                    "FP": 3535,
+                    "IoU": 0.5548848182070497,
+                    "TN": 14403508,
+                    "TP": 7997,
+                    "n_pred": 11532,
+                    "n_ref": 10877
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 1236,
+                    "FP": 9,
+                    "IoU": 0.0,
+                    "TN": 14416675,
+                    "TP": 0,
+                    "n_pred": 9,
+                    "n_ref": 1236
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_393.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_393.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6281628933903414,
+                    "FN": 3411,
+                    "FP": 1894,
+                    "IoU": 0.4578990394441038,
+                    "TN": 8903110,
+                    "TP": 4481,
+                    "n_pred": 6375,
+                    "n_ref": 7892
+                },
+                "2": {
+                    "Dice": 0.7106430155210643,
+                    "FN": 1009,
+                    "FP": 35,
+                    "IoU": 0.5511607910576096,
+                    "TN": 8910570,
+                    "TP": 1282,
+                    "n_pred": 1317,
+                    "n_ref": 2291
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_398.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_398.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8003894382470587,
+                    "FN": 11411,
+                    "FP": 5606,
+                    "IoU": 0.6672077287127939,
+                    "TN": 38746178,
+                    "TP": 34117,
+                    "n_pred": 39723,
+                    "n_ref": 45528
+                },
+                "2": {
+                    "Dice": 0.793089594214544,
+                    "FN": 720,
+                    "FP": 3400,
+                    "IoU": 0.6571238348868176,
+                    "TN": 38785296,
+                    "TP": 7896,
+                    "n_pred": 11296,
+                    "n_ref": 8616
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_404.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_404.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7523982140488926,
+                    "FN": 1411,
+                    "FP": 15392,
+                    "IoU": 0.6030756147686203,
+                    "TN": 35084963,
+                    "TP": 25530,
+                    "n_pred": 40922,
+                    "n_ref": 26941
+                },
+                "2": {
+                    "Dice": 0.7417883211678832,
+                    "FN": 1400,
+                    "FP": 298,
+                    "IoU": 0.5895576504713561,
+                    "TN": 35123159,
+                    "TP": 2439,
+                    "n_pred": 2737,
+                    "n_ref": 3839
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_411.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_411.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6030819360532211,
+                    "FN": 7873,
+                    "FP": 3821,
+                    "IoU": 0.43172319953348237,
+                    "TN": 9678750,
+                    "TP": 8884,
+                    "n_pred": 12705,
+                    "n_ref": 16757
+                },
+                "2": {
+                    "Dice": 0.224375,
+                    "FN": 2482,
+                    "FP": 0,
+                    "IoU": 0.1263639563533967,
+                    "TN": 9696487,
+                    "TP": 359,
+                    "n_pred": 359,
+                    "n_ref": 2841
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_412.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_412.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.708873102103357,
+                    "FN": 6954,
+                    "FP": 1406,
+                    "IoU": 0.5490344157945841,
+                    "TN": 7845782,
+                    "TP": 10178,
+                    "n_pred": 11584,
+                    "n_ref": 17132
+                },
+                "2": {
+                    "Dice": 0.7535509593820084,
+                    "FN": 52,
+                    "FP": 937,
+                    "IoU": 0.6045581767293082,
+                    "TN": 7861819,
+                    "TP": 1512,
+                    "n_pred": 2449,
+                    "n_ref": 1564
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_427.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_427.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.713225453218153,
+                    "FN": 1515,
+                    "FP": 5556,
+                    "IoU": 0.5542738275340393,
+                    "TN": 12567048,
+                    "TP": 8793,
+                    "n_pred": 14349,
+                    "n_ref": 10308
+                },
+                "2": {
+                    "Dice": 0.7954198473282442,
+                    "FN": 90,
+                    "FP": 446,
+                    "IoU": 0.6603295310519645,
+                    "TN": 12581334,
+                    "TP": 1042,
+                    "n_pred": 1488,
+                    "n_ref": 1132
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_431.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_431.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6748063320983496,
+                    "FN": 8267,
+                    "FP": 3319,
+                    "IoU": 0.5092133689159994,
+                    "TN": 8889289,
+                    "TP": 12021,
+                    "n_pred": 15340,
+                    "n_ref": 20288
+                },
+                "2": {
+                    "Dice": 0.8435588183883936,
+                    "FN": 3634,
+                    "FP": 841,
+                    "IoU": 0.7294437726723095,
+                    "TN": 8896356,
+                    "TP": 12065,
+                    "n_pred": 12906,
+                    "n_ref": 15699
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_433.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_433.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6681681136256311,
+                    "FN": 1198,
+                    "FP": 7937,
+                    "IoU": 0.50169103207506,
+                    "TN": 14399588,
+                    "TP": 9197,
+                    "n_pred": 17134,
+                    "n_ref": 10395
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 361,
+                    "FP": 50,
+                    "IoU": 0.0,
+                    "TN": 14417509,
+                    "TP": 0,
+                    "n_pred": 50,
+                    "n_ref": 361
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_434.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_434.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7427078162866069,
+                    "FN": 3234,
+                    "FP": 14390,
+                    "IoU": 0.5907201411950489,
+                    "TN": 22763467,
+                    "TP": 25437,
+                    "n_pred": 39827,
+                    "n_ref": 28671
+                },
+                "2": {
+                    "Dice": 0.8646322641256208,
+                    "FN": 2159,
+                    "FP": 30117,
+                    "IoU": 0.7615438036555994,
+                    "TN": 22671174,
+                    "TP": 103078,
+                    "n_pred": 133195,
+                    "n_ref": 105237
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_444.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_444.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5310321659528009,
+                    "FN": 9661,
+                    "FP": 1507,
+                    "IoU": 0.36150020010291006,
+                    "TN": 12303277,
+                    "TP": 6323,
+                    "n_pred": 7830,
+                    "n_ref": 15984
+                },
+                "2": {
+                    "Dice": 0.7514836795252225,
+                    "FN": 443,
+                    "FP": 227,
+                    "IoU": 0.6019013666072489,
+                    "TN": 12319085,
+                    "TP": 1013,
+                    "n_pred": 1240,
+                    "n_ref": 1456
+                }
+            },
+            "prediction_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout_predictions/cldice/hepaticvessel_455.nii.gz",
+            "reference_file": "/mnt/vstor/courses/csds463/arj94/project1/holdout/labelsTs/hepaticvessel_455.nii.gz"
+        }
+    ]
+}
