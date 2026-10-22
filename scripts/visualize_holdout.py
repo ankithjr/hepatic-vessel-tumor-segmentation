@@ -26,11 +26,13 @@ os.makedirs(OUT_DIR, exist_ok=True)
 
 cases = [
 
-    "hepaticvessel_002",
+    "hepaticvessel_075",
 
-    "hepaticvessel_008",
+    "hepaticvessel_029",
 
-    "hepaticvessel_019",
+    "hepaticvessel_110",
+
+    "hepaticvessel_308",
 
 ]
 
