@@ -67,6 +67,12 @@ The topology-aware loss produced a modest improvement in holdout performance.
 
 Additional comparison figures are available in `results/figures/`.
 
+## Project Report
+
+A full technical report describing the dataset, methodology, experiments, results, and limitations is available here:
+
+[View the project report](docs/hepatic_vessel_tumor_segmentation_report.pdf)
+
 ## Repository Structure
 
 ```text
