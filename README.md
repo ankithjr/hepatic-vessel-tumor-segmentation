@@ -69,18 +69,19 @@ Additional comparison figures are available in `results/figures/`.
 
 ## Repository Structure
 
+
+So the structure section should look like this:
+
+```text
 ```text
 hepatic-vessel-tumor-segmentation/
 ├── custom_trainers/
+├── results/
 ├── scripts/
 ├── slurm/
-├── results/
-│   ├── figures/
-│   └── metrics/
-├── .gitignore
 └── README.md
-'''
 
+```text
 ## Implementation
 
 The project uses:
