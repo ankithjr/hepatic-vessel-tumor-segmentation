@@ -1,10 +1,24 @@
-
-
 # Hepatic Vessel and Tumor Segmentation with 3D nnU-Net
 
 This project investigates automatic segmentation of hepatic vessels and tumors from abdominal CT using the **Medical Segmentation Decathlon (MSD) Task08 Hepatic Vessel** dataset.
 
-A baseline 3D nnU-Net was trained and evaluated on an independent holdout set. The baseline was then extended with a **vessel-specific topology-aware clDice loss** to test whether encouraging vessel connectivity could improve segmentation performance.
+A baseline 3D nnU-Net was trained and evaluated on an independent holdout set. The baseline was then extended with a **vessel-specific topology-aware clDice loss** to test whether topology-aware supervision could improve segmentation performance.
+
+## Highlights
+
+- **303 abdominal CT volumes** from MSD Task08 Hepatic Vessel
+- **61-case independent holdout cohort** for final evaluation
+- Custom **vessel-specific clDice** extension integrated into nnU-Net v2
+- 3D training on an **NVIDIA RTX 2080 Ti** using SLURM/HPC
+- Mean foreground Dice: **0.6514 → 0.6536**
+- Per-case error analysis and qualitative comparison of baseline vs. clDice predictions
+
+## Key Contributions
+
+- Built and evaluated a reproducible 3D nnU-Net segmentation pipeline for hepatic vessels and tumors.
+- Implemented a custom topology-aware loss while preserving the baseline architecture, split, preprocessing, patch size, and training schedule for a controlled comparison.
+- Adapted clDice to half-resolution topology computation after full-resolution 3D skeletonization exceeded available GPU memory.
+- Generated aggregate and per-case evaluation metrics to identify strong, poor, and clDice-improved holdout cases.
 
 ## Dataset
 
@@ -81,10 +95,11 @@ hepatic-vessel-tumor-segmentation/
 ├── results/
 ├── scripts/
 ├── slurm/
+├── hepatic_vessel_tumor_segmentation_report.pdf
 └── README.md
 ```
-## Implementation
-The project uses:
+## Technical Stack
+
 - Python
 - PyTorch
 - nnU-Net v2
@@ -92,8 +107,8 @@ The project uses:
 - NiBabel
 - Matplotlib
 - CUDA
-- SLURM
-  
+- SLURM / HPC
+
 Raw CT volumes, labels, preprocessing outputs, trained checkpoints, prediction NIfTI files, environments, and SLURM logs are intentionally excluded from this repository.
 
 ## References
