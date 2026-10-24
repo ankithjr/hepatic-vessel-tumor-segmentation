@@ -71,7 +71,7 @@ Additional comparison figures are available in `results/figures/`.
 
 A full technical report describing the dataset, methodology, experiments, results, and limitations is available here:
 
-[View the project report](docs/hepatic_vessel_tumor_segmentation_report.pdf)
+[View the project report](hepatic_vessel_tumor_segmentation_report.pdf)
 
 ## Repository Structure
 
