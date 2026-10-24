@@ -69,12 +69,6 @@ Additional comparison figures are available in `results/figures/`.
 
 ## Repository Structure
 
-
-So the structure section should look like this:
-
-```text
-## Repository Structure
-
 ```text
 hepatic-vessel-tumor-segmentation/
 ├── custom_trainers/
@@ -82,3 +76,20 @@ hepatic-vessel-tumor-segmentation/
 ├── scripts/
 ├── slurm/
 └── README.md
+```
+## Implementation
+The project uses:
+- Python
+- PyTorch
+- nnU-Net v2
+- NumPy
+- NiBabel
+- Matplotlib
+- CUDA
+- SLURM
+Raw CT volumes, labels, preprocessing outputs, trained checkpoints, prediction NIfTI files, environments, and SLURM logs are intentionally excluded from this repository.
+
+##References
+- Isensee F, Jaeger PF, Kohl SAA, Petersen J, Maier-Hein KH. nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature Methods. 2021.
+- Shit S, Paetzold JC, Sekuboyina A, et al. clDice — a novel topology-preserving loss function for tubular structure segmentation. CVPR. 2021.
+- Medical Segmentation Decathlon — Task08 Hepatic Vessel.
